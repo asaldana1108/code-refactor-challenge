@@ -41,7 +41,7 @@ header a {
 }
 /* End of Header Section*/
 
-/* Hero Section is just the background image*/
+/* Hero/jumbotron Section is just the background image*/
 .hero {
     height: 800px;
     width: 100%;
@@ -52,7 +52,7 @@ header a {
 }
 /* End Hero Section*/
 
-/*content */
+/*main content */
 .content {
     width: 75%;
     display: inline-block;
@@ -83,9 +83,9 @@ header a {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/*end content */
+/*end main content */
 
-/* benefits section */
+/* benefits right panel section */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -106,7 +106,7 @@ header a {
     margin: 10px auto;
     max-width: 150px;
 }
-/* end benefits */ 
+/* end benefits right panel section */ 
 
  /*footer */
 footer {
